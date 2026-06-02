@@ -7,7 +7,8 @@ A functional 3D-printable mechanical transmission With 6 speeds
 
 ---
 
-Transmission components:
+## Transmission components:
+
 | Component | Quantity |
 |-----------|----------|
 | <span style="color:red">15 tooth</span>| 2|
@@ -37,5 +38,14 @@ Transmission components:
 
 <span style="display:none">Colors are unavailable on github, see table.png</span>
 
+## Gear ratios
+| speed | out gear | in gear |
+|-------|---------|----------|
+| 1 |27 | 15| 
+| 2 |27 | 19| 
+| 3 |20 | 22| 
+| 4 |20 | 26| 
+| 5 |15 | 27|
+| 6 |15 | 31| 
 
 Demo: https://youtu.be/1IeM9q7GXE4
