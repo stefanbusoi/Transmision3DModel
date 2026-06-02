@@ -35,7 +35,7 @@ Transmission components:
 | <span style="color:cyan">retaining Ring 2.3mm</span>| 6|
 | <span style="color:cyan">retaining Ring 2.3mm large </span>| 2|
 
-<span style="display:none">Colors are unavailable on githup, see table.png</span>
+<span style="display:none">Colors are unavailable on github, see table.png</span>
 
 
 Demo: https://youtu.be/1IeM9q7GXE4
